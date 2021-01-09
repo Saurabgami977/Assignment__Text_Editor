@@ -24,7 +24,7 @@ export default function SimpleBottomNavigation() {
             showLabels
             className={classes.root}
         >
-            <BottomNavigationAction href="https://github.com/Saurabgami977" target="__blank" label="Github" icon={<GitHubIcon />} />
+            <BottomNavigationAction href="https://github.com/Saurabgami977/Assignment__Text_Editor/tree/master" target="__blank" label="Github" icon={<GitHubIcon />} />
         </BottomNavigation>
     );
 }
