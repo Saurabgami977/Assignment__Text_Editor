@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Hello This is text edtior made with React.js. This is made up of only few components (4) Navigation, Appbar, Buttons and Pages
+
 ## Available Scripts
 
 ### `npm install`
